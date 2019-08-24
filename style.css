@@ -1,0 +1,39 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+html,
+body {
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(90deg, rgb(0, 10, 50), rgb(40, 60, 170))
+}
+
+.grey {
+  color: #c4c4c4;
+}
+
+.title {
+  font-weight: 200;
+  font-size: 4rem;
+}
+
+.round {
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+#logo {
+  padding-top: 10vh;
+  text-align: center;
+}
+
+#root {
+  padding-top: 15rem;
+  text-align: center;
+}
+
+#content {
+  padding-top: 10vh;
+}
