@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "coffee --c --t --M script.coffee"
+    "watch": "coffee -c -t -M script.coffee"
   },
   "author": "",
   "license": "ISC",
