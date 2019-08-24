@@ -1,4 +1,4 @@
-# Vertical
+# [Vertical](https://beyarz.github.io/vertical)
 
 A new vertical line every second.
 <br>
