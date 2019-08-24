@@ -29,4 +29,4 @@ initialize = (amount) ->
     node = createNode(node)
     injectObject(node)
 
-initialize(19) && setInterval( regenerate, 1000 )
+initialize(19) && setInterval( regenerate, 250 )
