@@ -6,11 +6,12 @@
 html,
 body {
   font-family: 'Nunito', sans-serif;
-  background: linear-gradient(90deg, rgb(0, 10, 50), rgb(40, 60, 170))
+  /* Credits to uigradients #SweetMorning */
+  background: linear-gradient(90deg, #FF5F6D, #FFC371)
 }
 
 .grey {
-  color: #c4c4c4;
+  color: #e4e4e4;
 }
 
 .title {

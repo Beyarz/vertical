@@ -2,7 +2,7 @@
 "use strict";
 
 (function () {
-  document.getElementById('hero').innerHTML = "<div class=\"container\" id=\"logo\">\n<h1 class=\"title grey\">Vertical</h1>\n<h2 class=\"subtitle grey\">New verticle line every second...</h2>\n</div>";
+  document.getElementById('hero').innerHTML = "<div class=\"container\" id=\"logo\">\n<h1 class=\"title\">Vertical</h1>\n<h2 class=\"subtitle\">New verticle line every second...</h2>\n</div>";
 }).call(void 0);
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlcm8uY29mZmVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLENBQUEsWUFBQTtBQUFBLEVBQUEsUUFBUSxDQUFSLGNBQUEsQ0FBQSxNQUFBLEVBQUEsU0FBQSxHQUE0QywySkFBNUM7Q0FBQSxFLElBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaGVybycpLmlubmVySFRNTCA9IFwiXCJcIjxkaXYgY2xhc3M9XCJjb250YWluZXJcIiBpZD1cImxvZ29cIj5cbiAgPGgxIGNsYXNzPVwidGl0bGUgZ3JleVwiPlZlcnRpY2FsPC9oMT5cbiAgPGgyIGNsYXNzPVwic3VidGl0bGUgZ3JleVwiPk5ldyB2ZXJ0aWNsZSBsaW5lIGV2ZXJ5IHNlY29uZC4uLjwvaDI+XG48L2Rpdj5cIlwiXCJcbiJdLCJzb3VyY2VSb290IjoiIn0=
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImhlcm8uY29mZmVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7OztBQUFBLENBQUEsWUFBQTtBQUFBLEVBQUEsUUFBUSxDQUFSLGNBQUEsQ0FBQSxNQUFBLEVBQUEsU0FBQSxHQUE0QyxpSkFBNUM7Q0FBQSxFLElBQUEiLCJzb3VyY2VzQ29udGVudCI6WyJkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnaGVybycpLmlubmVySFRNTCA9IFwiXCJcIjxkaXYgY2xhc3M9XCJjb250YWluZXJcIiBpZD1cImxvZ29cIj5cbiAgPGgxIGNsYXNzPVwidGl0bGVcIj5WZXJ0aWNhbDwvaDE+XG4gIDxoMiBjbGFzcz1cInN1YnRpdGxlXCI+TmV3IHZlcnRpY2xlIGxpbmUgZXZlcnkgc2Vjb25kLi4uPC9oMj5cbjwvZGl2PlwiXCJcIlxuIl0sInNvdXJjZVJvb3QiOiIifQ==
 //# sourceURL=hero.coffee
