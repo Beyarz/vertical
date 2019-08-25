@@ -25,6 +25,10 @@ body {
   margin-right: 1rem;
 }
 
+.is-transparent {
+  background-color: transparent;
+}
+
 #logo {
   padding-top: 10vh;
   text-align: center;
