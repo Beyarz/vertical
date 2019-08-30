@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "compile": "coffee -c -t -M script.coffee hero.coffee nav.coffee"
+    "compile": "coffee -c -t -M script.coffee prepend.coffee"
   },
   "author": "",
   "license": "ISC",
