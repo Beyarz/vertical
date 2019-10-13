@@ -6,7 +6,7 @@ prepend('nav',
   <nav class="breadcrumb">
     <ul>
       <li class="is-active"><a href="https://github.com/Beyarz/vertical">Github</a></li>
-      <li><a class="grey" href="https://github.com/Beyarz/vertical">Beyarz</a"></li>
+      <li><a class="grey" href="https://github.com/Beyarz/vertical">Beyar</a"></li>
     </ul>
   </nav>
 </div>"""
